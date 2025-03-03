@@ -1,0 +1,4 @@
+telethon
+decouple
+ffmpeg-python
+
